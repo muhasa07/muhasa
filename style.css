@@ -287,6 +287,10 @@ ul.menu {
   background: none;
 }
 
+.home-content a .linkedin-icon {
+  margin-right: 5px;
+}
+
 /* about section styling */
 .about .about-content .left {
   width: 43%;
@@ -297,7 +301,7 @@ ul.menu {
   width: 450px;
   object-fit: cover;
   border-radius: 10px;
-  box-shadow: 8px 10px 0 rgb(0 0 0 / 10%);
+  box-shadow: 8px 10px 0 #2c83c9ba;
 }
 
 .about .about-content .right {
